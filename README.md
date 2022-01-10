@@ -1,6 +1,6 @@
-## 👋 there!
-I'm Vladislav, fullstack 👨‍💻! Currently I'm working on something 😎.
+## 👋!
+Я Влад, fullstack-👨‍💻! Сейчас работаю над чем-то реально 😎.
 
-For collaboration write me an 📧: <a href="mailto:mail@gubarev.site">mail@gubarev.site</a>.
+По вопросам сотредничества пишите на мою 📧: <a href="mailto:gubarev.vlad1@yandex.ru">gubarev.vlad1@yandex.ru</a>.
 
-More ℹ️ on <a href="https://gubarev.site">my site</a>.
+Больше ℹ️ на <a href="https://gvlad.ru">моём сайте</a>.
