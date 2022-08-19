@@ -3,4 +3,4 @@
 
 По вопросам сотрудничества пишите в мой телеграм: <a href="https://t.me/extrapoisonouscake">@extrapoisonouscake</a>.
 
-Больше информации на <a href="https://gvlad.ru">моём сайте</a>.
+Больше информации на <a href="#">моём сайте</a>.
