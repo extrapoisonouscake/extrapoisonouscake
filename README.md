@@ -1,6 +1,14 @@
 ## 👋!
-Я Влад, fullstack-developer! Готов поработать с тобой.
+I'm Vlad, fullstack developer from Moscow, Russia.
 
-По вопросам сотрудничества пишите в мой телеграм: <a href="https://t.me/extrapoisonouscake">@extrapoisonouscake</a>.
+### ✨ My Skills
 
-Больше информации на <a href="#">моём сайте</a>.
+- HTML, CSS
+- JavaScript
+- TypeScript
+- NodeJS
+- ReactJS
+
+**📚 Currently learning NextJS.**
+
+💌 You can reach me on Telegram: [@extrapoisonouscake](https://t.me/extrapoisonouscake).
