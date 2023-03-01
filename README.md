@@ -8,7 +8,8 @@ I'm Vlad, fullstack developer from Moscow, Russia.
 - TypeScript
 - NodeJS
 - ReactJS
+- Figma
 
 **📚 Currently learning NextJS.**
 
-💌 You can reach me on Telegram: [@extrapoisonouscake](https://t.me/extrapoisonouscake).
+💌 You can reach me on my Telegram: [@extrapoisonouscake](https://t.me/extrapoisonouscake).
