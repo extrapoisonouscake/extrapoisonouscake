@@ -1,15 +1,13 @@
 ## 👋!
-I'm Vlad, fullstack developer from Moscow, Russia.
+I'm Vlad, a passionate fullstack developer.
 
 ### ✨ My Skills
 
 - HTML, CSS
-- JavaScript
 - TypeScript
+- JavaScript
 - NodeJS
 - ReactJS
-- Figma
-
-**📚 Currently learning NextJS.**
+- NextJS
 
 💌 You can reach me on my Telegram: [@extrapoisonouscake](https://t.me/extrapoisonouscake).
